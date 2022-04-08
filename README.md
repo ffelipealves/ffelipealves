@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ffelipealves
-- 👀 I’m interested in HTML/CSS
-- 🌱 I’m currently learning HTML/CSS
+- 👀 I’m interested in HTML/CSS, Javascript
+- 🌱 I’m currently learning HTML/CSS, C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
