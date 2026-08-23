@@ -30,11 +30,6 @@ Desenvolvedor full stack focado em construir sistemas completos, do banco de dad
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ffelipealves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffelipealves&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ffelipealves&theme=tokyonight&hide_border=true" />
 </div>
 
